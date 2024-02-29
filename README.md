@@ -7,3 +7,6 @@ Projekt "Stock_news" wykorzystuje biblioteki requests do pobierania danych o akc
 
 
 Projekt "flight_club" wykorzystuje bibliotekę requests do komunikacji z zewnętrznym API. Jego działanie polega na zbieraniu danych od użytkownika, takich jak imię, nazwisko i adres e-mail, a następnie wysyłaniu tych danych do odpowiedniego endpointu za pomocą metody POST.
+
+
+Projekt "100-movies-to-watch" wykorzystuje biblioteki requests i BeautifulSoup. Jego działanie polega na pobraniu listy najlepszych filmów z danej strony internetowej i zapisaniu ich tytułów do pliku tekstowego.
