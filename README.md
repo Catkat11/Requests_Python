@@ -22,3 +22,6 @@ Projekt "Top100Spotify" korzysta z bibliotek BeautifulSoup, requests i spotipy, 
 
 
 Projekt "flights_deal_finder" monitoruje ceny lotów i powiadamia użytkowników o tanich ofertach poprzez wiadomości SMS. Wykorzystuje biblioteki do komunikacji z API lotniczymi i Twilio do wysyłki powiadomień.
+
+
+Projekt "My_workout_tracker" używa bibliotek requests, datetime i os do zbierania informacji o aktywności fizycznej od użytkownika, zapisywania ich za pomocą zewnętrznego API (Nutritionix) i przechowywania w arkuszu kalkulacyjnym poprzez Sheety API.
