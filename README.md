@@ -10,3 +10,6 @@ Projekt "flight_club" wykorzystuje bibliotekę requests do komunikacji z zewnęt
 
 
 Projekt "100-movies-to-watch" wykorzystuje biblioteki requests i BeautifulSoup. Jego działanie polega na pobraniu listy najlepszych filmów z danej strony internetowej i zapisaniu ich tytułów do pliku tekstowego.
+
+
+Projekt "Amazon_price_tracker" wykorzystuje biblioteki requests, BeautifulSoup i smtplib. Jego działanie polega na monitorowaniu cen produktów na stronie Amazon i wysyłaniu powiadomienia e-mail, gdy cena spadnie poniżej określonej wartości.
