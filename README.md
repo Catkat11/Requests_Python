@@ -16,3 +16,6 @@ Projekt "Amazon_price_tracker" wykorzystuje biblioteki requests, BeautifulSoup i
 
 
 Projekt "rain_alert" wykorzystuje biblioteki requests i twilio. Jego działanie polega na sprawdzaniu prognozy pogody za pomocą OpenWeatherMap API, a następnie wysyłaniu powiadomienia SMS za pomocą Twilio w przypadku przewidywanego deszczu.
+
+
+Projekt "Top100Spotify" korzysta z bibliotek BeautifulSoup, requests i spotipy, aby tworzyć playlistę na Spotify z utworami z zestawienia Billboard Hot 100 wybranego przez użytkownika roku.
