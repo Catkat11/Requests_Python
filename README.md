@@ -13,3 +13,6 @@ Projekt "100-movies-to-watch" wykorzystuje biblioteki requests i BeautifulSoup. 
 
 
 Projekt "Amazon_price_tracker" wykorzystuje biblioteki requests, BeautifulSoup i smtplib. Jego działanie polega na monitorowaniu cen produktów na stronie Amazon i wysyłaniu powiadomienia e-mail, gdy cena spadnie poniżej określonej wartości.
+
+
+Projekt "rain_alert" wykorzystuje biblioteki requests i twilio. Jego działanie polega na sprawdzaniu prognozy pogody za pomocą OpenWeatherMap API, a następnie wysyłaniu powiadomienia SMS za pomocą Twilio w przypadku przewidywanego deszczu.
