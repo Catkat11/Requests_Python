@@ -19,3 +19,6 @@ Projekt "rain_alert" wykorzystuje biblioteki requests i twilio. Jego działanie 
 
 
 Projekt "Top100Spotify" korzysta z bibliotek BeautifulSoup, requests i spotipy, aby tworzyć playlistę na Spotify z utworami z zestawienia Billboard Hot 100 wybranego przez użytkownika roku.
+
+
+Projekt "flights_deal_finder" monitoruje ceny lotów i powiadamia użytkowników o tanich ofertach poprzez wiadomości SMS. Wykorzystuje biblioteki do komunikacji z API lotniczymi i Twilio do wysyłki powiadomień.
