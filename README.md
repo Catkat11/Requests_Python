@@ -25,3 +25,6 @@ Projekt "flights_deal_finder" monitoruje ceny lotów i powiadamia użytkowników
 
 
 Projekt "My_workout_tracker" używa bibliotek requests, datetime i os do zbierania informacji o aktywności fizycznej od użytkownika, zapisywania ich za pomocą zewnętrznego API (Nutritionix) i przechowywania w arkuszu kalkulacyjnym poprzez Sheety API.
+
+
+Projekt "tracking_iss" wykorzystuje biblioteki requests, datetime, smtplib i time. Jego działanie polega na cyklicznym sprawdzaniu pozycji Międzynarodowej Stacji Kosmicznej (ISS) oraz czasu lokalnego, wysyłając powiadomienie e-mail, gdy ISS znajduje się w pobliżu obserwatora i jest noc.
